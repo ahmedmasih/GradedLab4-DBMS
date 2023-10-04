@@ -1,4 +1,4 @@
-# Ritvik_DORM_LAB4DBMS
+# Ahmed_DORM_LAB4DBMS
 Problem Statement 
 
 An E-commerce website manages its data in the form of various tables.
